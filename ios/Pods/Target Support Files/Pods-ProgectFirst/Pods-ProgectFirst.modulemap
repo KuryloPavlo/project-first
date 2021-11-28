@@ -1,6 +1,0 @@
-module Pods_ProgectFirst {
-  umbrella header "Pods-ProgectFirst-umbrella.h"
-
-  export *
-  module * { export * }
-}

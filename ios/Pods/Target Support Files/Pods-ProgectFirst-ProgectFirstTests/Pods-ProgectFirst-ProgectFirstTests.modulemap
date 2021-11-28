@@ -1,6 +1,0 @@
-module Pods_ProgectFirst_ProgectFirstTests {
-  umbrella header "Pods-ProgectFirst-ProgectFirstTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
